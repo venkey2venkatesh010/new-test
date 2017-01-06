@@ -3,3 +3,5 @@ this is my new testing repository
 just for learning
 casually
 dont try to copy
+unicorn
+all this is for my first repository for learning. 
